@@ -62,7 +62,6 @@
 		2A8C15BC2521B33E00D610A9 /* DetailPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8C15B22521B33E00D610A9 /* DetailPresenter.swift */; };
 		2A8C15BD2521B33E00D610A9 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8C15B42521B33E00D610A9 /* DetailView.swift */; };
 		2A8C15C42521B38100D610A9 /* DetailInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8C15C32521B38100D610A9 /* DetailInteractor.swift */; };
-		2A8C15D52521BAB200D610A9 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2A8C15D42521BAB200D610A9 /* README.md */; };
 		2A8C15E12521BEDF00D610A9 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 2A8C15E02521BEDF00D610A9 /* SDWebImageSwiftUI */; };
 		2AA7F2B92521EC7100E75409 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 2AA7F2B82521EC7100E75409 /* Alamofire */; };
 		2AA7F2C72521EF4200E75409 /* CategoryEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA7F2C62521EF4200E75409 /* CategoryEntity.swift */; };
@@ -152,7 +151,6 @@
 		2A8C15B22521B33E00D610A9 /* DetailPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailPresenter.swift; sourceTree = "<group>"; };
 		2A8C15B42521B33E00D610A9 /* DetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		2A8C15C32521B38100D610A9 /* DetailInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailInteractor.swift; sourceTree = "<group>"; };
-		2A8C15D42521BAB200D610A9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		2AA7F2C62521EF4200E75409 /* CategoryEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryEntity.swift; sourceTree = "<group>"; };
 		2AA7F2D92521F01800E75409 /* LocaleDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocaleDataSource.swift; sourceTree = "<group>"; };
 		A755537C253DD794006B7FD5 /* Core */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Core; path = ../Modules/Core; sourceTree = "<group>"; };
@@ -196,7 +194,6 @@
 				A7555380253DD99A006B7FD5 /* Category */,
 				A755537C253DD794006B7FD5 /* Core */,
 				2A4968A7251CA6A4005DE97A /* .swiftlint.yml */,
-				2A8C15D42521BAB200D610A9 /* README.md */,
 				2A49685F251CA417005DE97A /* TheMealsApp */,
 				2A496876251CA41B005DE97A /* TheMealsAppTests */,
 				2A496881251CA41C005DE97A /* TheMealsAppUITests */,
@@ -725,7 +722,6 @@
 			files = (
 				2A4968A8251CA6A4005DE97A /* .swiftlint.yml in Resources */,
 				2A49686D251CA41B005DE97A /* LaunchScreen.storyboard in Resources */,
-				2A8C15D52521BAB200D610A9 /* README.md in Resources */,
 				2A49686A251CA41B005DE97A /* Preview Assets.xcassets in Resources */,
 				2A496867251CA41A005DE97A /* Assets.xcassets in Resources */,
 			);
