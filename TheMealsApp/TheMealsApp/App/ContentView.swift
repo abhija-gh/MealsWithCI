@@ -20,7 +20,7 @@ struct ContentView: View {
             NavigationView {
                 HomeView(presenter: homePresenter)
             }.tabItem {
-                TabItem(imageName: "house", title: "Home")
+                TabItem(imageName: "house", title: "Homie")
             }
             
             NavigationView {
